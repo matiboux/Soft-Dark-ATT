@@ -1,6 +1,6 @@
 # Soft Dark ATT – Versions
 
-## BETA
+## Development
 
 * No info on previous releases
 - [v0.2](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v0.2) – April 20, 2017

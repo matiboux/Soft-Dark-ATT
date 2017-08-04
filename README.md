@@ -1,10 +1,12 @@
 # Soft Dark Android Telegram Theme
 
-**Soft Dark** is a Telegram Theme made by Matiboux for your best Android devices. Let your eyes rest – especially for the night – and make your app looks good at the same time!
+**Soft Dark** is a Telegram Theme made by Matiboux for your best Android devices. Let your eyes rest – especially in the night – and make your app looks good at the same time!
 
-*This theme is based on the default "Dark" Telegram Theme.*
+*This theme is based on the default "Dark" Telegram Android Theme.*
 
 The major colors for this theme are **Dark Gray**, **Night Blue** and **Faded Orange**.
+
+Also using Telegram Desktop? Check out [Soft Dark Telegram Desktop Theme](https://github.com/matiboux/Soft-Dark-TDT)!*
 
 ## Download
 

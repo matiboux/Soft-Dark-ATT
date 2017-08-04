@@ -6,7 +6,7 @@
 
 The major colors for this theme are **Dark Gray**, **Night Blue** and **Faded Orange**.
 
-Also using Telegram Desktop? Check out [Soft Dark Telegram Desktop Theme](https://github.com/matiboux/Soft-Dark-TDT)!*
+*Also using Telegram Desktop? Check out [Soft Dark Telegram Desktop Theme](https://github.com/matiboux/Soft-Dark-TDT)!*
 
 ## Download
 

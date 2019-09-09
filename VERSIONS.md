@@ -44,3 +44,4 @@
 - [v0.28](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v0.28) – May 2, 2018
 - [v0.29](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v0.29) – September 17, 2018
   * [v0.29.1](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v0.29.1) – September 25, 2018
+  * [v0.29.2](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v0.29.2) – September 9, 2019

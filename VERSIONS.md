@@ -1,5 +1,9 @@
 # Soft Dark ATT – Versions
 
+## Cloud releases
+
+- [v1.0](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v1.0) – September 9, 2019
+
 ## Development
 
 * No info on previous releases

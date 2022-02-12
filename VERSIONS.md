@@ -3,6 +3,7 @@
 ## Cloud releases
 
 - [v1.0](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v1.0) – September 9, 2019
+- [v1.1](https://github.com/matiboux/Soft-Dark-ATT/releases/tag/v1.1) – February 12, 2022
 
 ## Development
 
